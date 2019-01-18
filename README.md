@@ -17,6 +17,7 @@ ________________________________________________________________________________
 4. Managers rely on accurate and precise estimates of disease dynamics to develop strategies to mitigate pathogen impacts on host populations. At a time when pathogens pose one of the greatest threats to biodiversity, statistical methods that lead to robust inferences on host populations are critically needed for rapid, rather than incremental, assessments of the impacts of emerging infectious diseases.
 
 ## Code
+
 Rmarkdown verion:
 
 [Appendix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/Appendix_09_Nov_2018.Rmd)
@@ -33,20 +34,24 @@ Code:
 
 [Disease-structured N-mixture model (single season)](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/model.txt)
 
-[N-mixture model with imperfect sampling and lab detection of pathogen] (https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/model_sampling.txt)
+[N-mixture model with imperfect sampling and lab detection of pathogen](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/model_sampling.txt)
 
 Images/Figures: 
+
 [Observation matrix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/piMatrix.png)
 
 [State matrix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/psiMatrix.png)
 
 LaTex code:
+
 [Observation matrix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/piMatrix.tex)
 
 [State matrix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/psiMatrix.tex)
 
 Style:
-[Rmarkdown style] (https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/style.css) 
+
+[Rmarkdown style](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/style.css) 
 
 ##Data
+
 All data is simulated in the Code.
