@@ -52,6 +52,6 @@ Style:
 
 [Rmarkdown style](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/style.css) 
 
-##Data
+## Data
 
 All data is simulated in the Code.
