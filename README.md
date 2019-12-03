@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ## Code
 
-Rmarkdown verion:
+Rmarkdown version:
 
 [Appendix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/Appendix_09_Nov_2018.Rmd)
 
