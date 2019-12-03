@@ -18,17 +18,11 @@ ________________________________________________________________________________
 
 ## Code
 
-Rmarkdown version:
+Rmarkdown version: [Appendix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/Appendix_09_Nov_2018.Rmd)
 
-[Appendix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/Appendix_09_Nov_2018.Rmd)
+PDF version: [Appendix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/Appendix_09_Nov_2018.pdf)
 
-PDF version: 
-
-[Appendix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/Appendix_09_Nov_2018.pdf)
-
-HTML version:
-
-[Appendix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/Appendix_09_Nov_2018.html)
+HTML version: [Appendix](https://github.com/zipkinlab/DiRenzo_etal_2019_EcolAndEvol/blob/master/Appendix_09_Nov_2018.html)
 
 Code:
 
